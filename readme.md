@@ -17,9 +17,6 @@
 - 📧 Email: [joaogabriel.racer@gmail.com](mailto:joaogabriel.racer@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/jggoncalez](https://www.linkedin.com/in/jggoncalez)  
 
-## 😄 Pronouns
-He/Him  
-
 ---
 
 🚀 Always open to new challenges and opportunities to grow. 
