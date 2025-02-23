@@ -7,7 +7,7 @@
 
 ## 🌱 Currently Learning
 - **Languages:** Python, JavaScript, Java, SQL  
-- **Areas of Interest:** Web Development, Backend Engineering, and Software Architecture.
+- **Areas of Interest:** Web Development, Backend Engineering, Software Architecture and Data Analysis.
 
 ## 💞️ Looking to Collaborate on...
 - Open-source projects 🏆  
