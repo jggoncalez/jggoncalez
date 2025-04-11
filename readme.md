@@ -1,7 +1,9 @@
 # 👋 Hi, I’m João Gabriel! (@jggoncalez)
 
 ## 🚀 About Me
-- 🎓 Currently studying **Systems Development Technician** at **SENAI**.
+- 🎓 Currently studying:
+  - **Systems Development Technician** at **SENAI LIMEIRA**.
+  - **Bachelor's Gegree - System of Information** at **Fundação Hermínio Ometto**
 - 💡 Passionate about technology, problem-solving, and innovation.
 - 🛠️ Focused on improving my coding skills and exploring new technologies.
 
