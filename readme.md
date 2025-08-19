@@ -8,7 +8,7 @@
 - 🛠️ Focused on improving my coding skills and exploring new technologies.
 
 ## 🌱 Currently Learning
-- **Languages:** Python, JavaScript, Java, SQL  
+- **Languages:** Python, JavaScript, PHP, Java, SQL, VBA  
 - **Areas of Interest:** Web Development, Backend Engineering, Software Architecture and Data Analysis.
 
 ## 💞️ Looking to Collaborate on...
