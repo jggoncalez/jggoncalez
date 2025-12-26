@@ -40,17 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jggoncalez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=jggoncalez&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🏭 Industry 4.0 & Smart Manufacturing
