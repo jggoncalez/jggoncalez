@@ -16,7 +16,7 @@
 💼 **Current Positions:**
 - 🔧 Apprentice at **Ajinomoto do Brasil** (Warehouse/Almoxarifado)
 - 🎓 Technical Development of Systems @ **SENAI Limeira**
-- 🎓 Information Systems @ **Fundação Hermínio Ometto (Uniararas)**
+- 🎓 Computer engineering @ **Fundação Hermínio Ometto (Uniararas)**
 
 ---
 
@@ -48,9 +48,7 @@
 - 🏭 Industry 4.0 & Smart Manufacturing
 - 🤖 Advanced IoT & Edge Computing
 - 📊 Business Intelligence & Data Analytics
-- 🇯🇵 Japanese Business Culture & Language (JLPT N4 preparation)
 - 🏗️ Enterprise Software Architecture
-- 📈 Lean Six Sigma Methodologies
 
 ---
 
@@ -59,7 +57,6 @@
 - 🌐 Fullstack Development Projects
 - 🤖 IoT & Arduino Solutions
 - 🏢 Industrial Automation Systems
-- 🇯🇵 Projects involving Japanese technology/culture
 - 📈 Open-source initiatives
 - 🔄 Process Optimization - Digital transformation initiatives, workflow automation
 ---
