@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 💼 **Current Positions:**
-- 🔧 Apprentice at **Ajinomoto do Brasil**
+- 🔧 Apprentice @ **Ajinomoto do Brasil**
 - 🎓 Technical Development of Systems @ **SENAI Limeira**
 - 🎓 Computer engineering @ **Fundação Hermínio Ometto (Uniararas)**
 
