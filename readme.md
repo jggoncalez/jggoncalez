@@ -57,7 +57,6 @@ I turn repetitive processes into zero-touch workflows — from SAP GUI scripts o
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Power Fx](https://img.shields.io/badge/Power%20Fx-742774?style=flat-square&logo=powerapps&logoColor=white)
 ![pac CLI](https://img.shields.io/badge/pac%20CLI-742774?style=flat-square&logo=powerapps&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 </div>
 
