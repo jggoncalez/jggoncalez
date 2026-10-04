@@ -73,7 +73,7 @@ I turn repetitive processes into zero-touch workflows — from SAP GUI scripts o
     </td>
     <td align="center" width="170">
       <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" alt="Microsoft Certified: Azure AI Fundamentals badge" /><br/>
-      <b>AI-901</b><br/><sub>Azure AI Fundamentals</sub>
+      <b>AI-901</b><br/><sub>Azure AI<br>Fundamentals</sub>
     </td>
   </tr>
 </table>
